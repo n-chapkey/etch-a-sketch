@@ -1,0 +1,11 @@
+#container{
+    display:grid;
+    width: 720px;
+    height: 720px;
+    grid-template-columns: repeat(16, 1fr);
+    grid-template-rows: repeat(16,1fr);
+
+}
+#resetter{
+
+}
